@@ -22,7 +22,7 @@
 				<ul>
 					<li><a href="#locations">Our Locations</a></li>
 					<li><a href="#doctors">Our Doctors</a></li>
-					<li><a href="#services">Services & Resources</a></li>
+					<li><a href="#services">Affiliations & Resources</a></li>
 					<li><a href="" target="_blank">Patient Portal</a></li>
 				</ul>
 			</nav>
@@ -34,13 +34,21 @@
 
     	    <div class="hero-img cf">
                 <div class="info-block block-1">
-                    <div class="left">1101 S Canal Street, Chicago IL 60607</div>
+                    <div class="left"><p>Office hours at each office are 9 AM-5 PM Monday thru Friday</p>
+                    <p>Appointments are by referral only</p>
+                    <p>Practice is limited to Nephrology</p>
+                    <p>All insurance accepted</p>
+                    <p>Office Manager: Patricia Payne</p></div>
+<!--
                     <div class="right">(312) 555-5555</div>
+-->
                 </div>
+<!--
                 <div class="info-block block-2">
                     <div class="left">55 E Washington St, Chicago IL 60602</div>
                     <div class="right">(312) 555-5555</div>
                 </div>
+-->
     	    </div>
 
 
@@ -67,12 +75,14 @@
                             <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>
 -->
 		                </div>
+<!--
 		                <div class="right">
                             <h4>Hours</h4>
                             <p>Mon–Wed: 9am–5pm</p>
                             <p>Thur: 9am–5pm</p>
                             <p>Fri: 9am–5pm</p>
 		                </div>
+-->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -87,12 +97,14 @@
                             <div class="fax"><span class="icon-print"></span> (312) 913-9154</div>
 <!--                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>-->
 		                </div>
+<!--
 		                <div class="right">
                             <h4>Hours</h4>
                             <p>Mon–Wed: 9am–5pm</p>
                             <p>Thur: 9am–5pm</p>
                             <p>Fri: 9am–5pm</p>
 		                </div>
+-->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -109,12 +121,14 @@
                             <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>
 -->
 		                </div>
+<!--
 		                <div class="right">
                             <h4>Hours</h4>
                             <p>Mon–Wed: 9am–5pm</p>
                             <p>Thur: 9am–5pm</p>
                             <p>Fri: 9am–5pm</p>
 		                </div>
+-->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -129,12 +143,14 @@
                             <div class="fax"><span class="icon-print"></span> (847) 581-1768</div>
 <!--                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>-->
 		                </div>
+<!--
 		                <div class="right">
                             <h4>Hours</h4>
                             <p>Mon–Wed: 9am–5pm</p>
                             <p>Thur: 9am–5pm</p>
                             <p>Fri: 9am–5pm</p>
 		                </div>
+-->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -214,9 +230,9 @@
 		                <div class="bio">
 		                    <h3 class="doc-title">Neil Soifer, MD</h3>
                             <p>Dr. Soifer was born and raised in Detroit, Michigan, and attended both college and medical school at the University of Michigan in Ann Arbor. He then moved to Chicago to complete his internship and residency at Michael Reese Hospital, where he spent an additional year as a chief medical resident. After completing his clinical nephrology training at the University of Pennsylvania, he spent several years performing basic science and clinical research at Yale University in New Haven, Connecticut. During this time he was recognized with a Young Investigator Award.</p>
-                            <p>He returned to Chicago and joined Lakeside Nephrology in 1994, where he is now the Secretary and Treasurer, as well as the director of the acute dialysis program. He is the Chief of Nephrology at Weiss Memorial Hospital in Chicago, and the medical director of the Fresenius Medical Care Uptown dialysis facility. He is also a Clinical Assistant Professor of Medicine at the University of Illinois in Chicago.</p>
+                            <p>He returned to Chicago and joined Lakeside Nephrology in 1994, where he is the director of the acute dialysis program. He is the Chief of Nephrology at Weiss Memorial Hospital in Chicago, and the medical director of the Fresenius Medical Care Uptown dialysis facility. He is also a Clinical Assistant Professor of Medicine at the University of Illinois in Chicago.</p>
                             <p>Dr. Soifer is presently an active member on the Medical Advisory Board of Fresenius Medical Care and the Medical Executive Board of the National Kidney Foundation.  He is a member of the International Society of Nephrology and the Renal Physicians Association, and he has been appointed a Fellow of the American Society of Nephrology.</p>
-                            <p>Dr. Soifer is board certified in both internal medicine and nephrology. He has received several teaching awards, and has published numerous original scientific articles and review papers in the areas of clinical nephrology, endocrinology, and bone and mineral metabolism. He is presently a reviewer for several national Nephrology journals.</p>
+                            <p>Dr. Soifer is board certified in both internal medicine and nephrology. He has received several teaching awards, and has published numerous original scientific articles and review papers in the areas of clinical nephrology, endocrinology, and bone and mineral metabolism.</p>
 		                </div>
 		            </div>
 <!--
@@ -297,25 +313,13 @@
 
 	<section id="services" class="services">
 		<div class="wrapper cf">
-		    <h2 class="title">Services We Offer</h2>
+		    <h2 class="title">Hospital Affiliations</h2>
 		    
 		    <ul class="four-col">
-		        <li>List Item 1</li>
-		        <li>List Item 2</li>
-		        <li>List Item 3</li>
-		        <li>List Item 4</li>
-		        <li>List Item 5</li>
-		        <li>List Item 6</li>
-		        <li>List Item 7</li>
-		        <li>List Item 8</li>
-		        <li>List Item 9</li>
-		        <li>List Item 10</li>
-		        <li>List Item 11</li>
-		        <li>List Item 12</li>
-		        <li>List Item 13</li>
-		        <li>List Item 14</li>
-		        <li>List Item 15</li>
-		        <li>List Item 16</li>
+		        <li>Mercy Hospital and Medical Center, Chicago, IL</li>
+		        <li>Northshore University Skokie Hospital, Skokie, IL</li>
+		        <li>Presence St. Francis Hospital, Evanston, IL</li>
+		        <li>Weiss Memorial Hospital, Chicago, IL</li>
 		    </ul>
 		    
 		</div>
@@ -329,19 +333,7 @@
 		        <li><a href="http://www.nkf.org" target="_blank">National Kidney Foundation</a></li>
 		        <li><a href="http://www.aakp.org" target="_blank">American Association of Kidney Patients</a></li>
 		        <li><a href="http://www.uptodate.com/patients" target="_blank">UpToDate</a></li>
-		        <li>List Item 4</li>
-		        <li>List Item 5</li>
-		        <li>List Item 6</li>
-		        <li>List Item 7</li>
-		        <li>List Item 8</li>
-		        <li>List Item 9</li>
-		        <li>List Item 10</li>
-		        <li>List Item 11</li>
-		        <li>List Item 12</li>
-		        <li>List Item 13</li>
-		        <li>List Item 14</li>
-		        <li>List Item 15</li>
-		        <li>List Item 16</li>
+		        <li><a href="resources/XXX.pdf">Treatment Options for Kidney Failure: Living with End Stage Renal Disease (PDF download)</a></li>
 		    </ul>
 		    
 		</div>
