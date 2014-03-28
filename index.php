@@ -112,8 +112,11 @@
 		                    <img src="images/pic-doctor-01.jpg" alt="" />
 		                </div>
 		                <div class="right">
-		                    <h3 class="doc-title">Neil Soifer, MD</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit.</p>
+		                    <h3 class="doc-title">Arnold Berns, MD</h3>
+                            <p>Dr. Berns attended both college and medical school at Northwestern University in Chicago. He completed his internship at Boston city Hospital on the Harvard medical service, and his residency in Internal Medicine at Northwestern Memorial Hospital. He completed a fellowship in Nephrology at the University of Colorado with Dr. Robert Schrier.</p>
+                            <p>After completing his formal education and training, he returned to Chicago and joined Lakeside nephrology in 1978, where he is now the President and managing partner.  He is Director of Nephrology at Saint Francis Hospital in Evanston, IL and Clinical Professor of Medicine at the University of Illinois in Chicago.  He has served as the Medical Director of Fresenius Medical Care Rogers Park Dialysis Facility since 1981.</p>
+                            <p>Dr. Berns was a member of the Board of Advisors of the American Society of Nephrology from 2003-2008 and  founded and chaired the Practicing Nephrology Advisory Group of the American Society of Nephrology.  He also served on the Nephrology Board of the American Board of Internal Medicine from 2007-2013.</p>
+                            <p>He is board certified in both internal medicine and nephrology and remains active in medical education.  He has published numerous papers on the subjects of clinical nephrology and renal physiology.</p>
 		                </div>
 		            </div>
 		            <div class="info">
