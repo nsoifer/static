@@ -137,8 +137,13 @@
 		                    <img src="images/pic-doctor-01.jpg" alt="" />
 		                </div>
 		                <div class="right">
-		                    <h3 class="doc-title">Neil Soifer, MD</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit.</p>
+		                    <h3 class="doc-title">Sheldon Hirsch, MD</h3>
+                            <p>Dr Hirsch was born and raised in New York and attended Amherst College and Tufts Medical School in Massachusetts. He did his internship and residency at Michael Reese Hospital in Chicago and his clinical renal fellowship at UCLA.</p>
+                            <p>After completing his clinical training, he spent several years doing research at the University of Chicago and Washington University in St Louis, as one of the first renal molecular biologists. He published several papers in highly regarded scientific journals.</p>
+                            <p>He returned to clinical nephrology, joining Lakeside Nephrology in 1988. He is Chief of Nephrology at Mercy Hospital and serves as Medical Director of the Davita Loop facility and the Frenesius Medical Care Prairie facility.</p>
+                            <p>He has continued his interest in research and has published many articles in peer-reviewed journals concerning treatment of hypertension, preventing progression of chronic kidney disease and acute renal failure. He has presented this work and lectured at national meetings.</p>
+                            <p>He is board certified in both internal medicine and Nephrology.</p>
+                            <p>He maintains an avid interest in athletics as an ex-wrestler and current basketball player. He has written a book about baseball and many articles for realclearsports.com.</p>
 		                </div>
 		            </div>
 		            <div class="info">
