@@ -108,10 +108,10 @@
 		    
 		        <div class="item">
 		            <div class="top cf">
-		                <div class="left">
+		                <div class="headshot">
 		                    <img src="images/pic-doctor-01.jpg" alt="" />
 		                </div>
-		                <div class="right">
+		                <div class="bio">
 		                    <h3 class="doc-title">Arnold Berns, MD</h3>
                             <p>Dr. Berns attended both college and medical school at Northwestern University in Chicago. He completed his internship at Boston city Hospital on the Harvard medical service, and his residency in Internal Medicine at Northwestern Memorial Hospital. He completed a fellowship in Nephrology at the University of Colorado with Dr. Robert Schrier.</p>
                             <p>After completing his formal education and training, he returned to Chicago and joined Lakeside nephrology in 1978, where he is now the President and managing partner.  He is Director of Nephrology at Saint Francis Hospital in Evanston, IL and Clinical Professor of Medicine at the University of Illinois in Chicago.  He has served as the Medical Director of Fresenius Medical Care Rogers Park Dialysis Facility since 1981.</p>
@@ -133,10 +133,10 @@
 
 		        <div class="item">
 		            <div class="top cf">
-		                <div class="left">
+		                <div class="headshot">
 		                    <img src="images/pic-doctor-01.jpg" alt="" />
 		                </div>
-		                <div class="right">
+		                <div class="bio">
 		                    <h3 class="doc-title">Sheldon Hirsch, MD</h3>
                             <p>Dr Hirsch was born and raised in New York and attended Amherst College and Tufts Medical School in Massachusetts. He did his internship and residency at Michael Reese Hospital in Chicago and his clinical renal fellowship at UCLA.</p>
                             <p>After completing his clinical training, he spent several years doing research at the University of Chicago and Washington University in St Louis, as one of the first renal molecular biologists. He published several papers in highly regarded scientific journals.</p>
@@ -160,10 +160,10 @@
 
 		        <div class="item">
 		            <div class="top cf">
-		                <div class="left">
+		                <div class="headshot">
 		                    <img src="images/pic-doctor-01.jpg" alt="" />
 		                </div>
-		                <div class="right">
+		                <div class="bio">
 		                    <h3 class="doc-title">Neil Soifer, MD</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit.</p>
 		                </div>
@@ -182,10 +182,10 @@
 
 		        <div class="item">
 		            <div class="top cf">
-		                <div class="left">
+		                <div class="headshot">
 		                    <img src="images/pic-doctor-01.jpg" alt="" />
 		                </div>
-		                <div class="right">
+		                <div class="bio">
 		                    <h3 class="doc-title">Neil Soifer, MD</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit.</p>
 		                </div>

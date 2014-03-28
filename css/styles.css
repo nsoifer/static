@@ -346,6 +346,7 @@ a:hover {
     font-size: 17px;
 }
 
+
 /**========================================================
     DOCTORS
 ========================================================**/
@@ -358,12 +359,10 @@ a:hover {
     margin-bottom: 26px;
 }
 
-.doctors .top .left {
-    width: 30%;
-}
-
-.doctors .top .right {
-    width: 64%;
+.doctors .headshot {
+    float: left;
+    width: 141px;
+    margin: 0 20px 20px 0;
 }
 
 .doc-title {
