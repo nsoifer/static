@@ -319,6 +319,10 @@ a:hover {
     LOCATIONS
 ========================================================**/
 
+.locations .item {
+    margin-bottom: 36px;
+}
+
 .map {
     margin-bottom: 16px;
     border: 10px solid #f4f3f3;

@@ -63,7 +63,9 @@
                             <div class="city">Chicago, IL 60607</div>
                             <div class="phone"><span class="icon-phone"></span> (312) 986-0110</div>
                             <div class="fax"><span class="icon-print"></span> (312) 986-0110</div>
+<!--
                             <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>
+-->
 		                </div>
 		                <div class="right">
                             <h4>Hours</h4>
@@ -77,13 +79,55 @@
 
 		        <div class="item">
 		            <div class="map"><img src="images/map-2.png" alt="" /></div>
-		            <h3 class="address">55 E Washington Street</h3>
+		            <h3 class="address">1717 South Wabash Avenue</h3>
 		            <div class="info cf">
 		                <div class="left">
-                            <div class="city">Chicago, IL 60607</div>
-                            <div class="phone"><span class="icon-phone"></span> (312) 986-0110</div>
-                            <div class="fax"><span class="icon-print"></span> (312) 986-0110</div>
+                            <div class="city">Chicago, IL 60616</div>
+                            <div class="phone"><span class="icon-phone"></span> (312) 913-0110</div>
+                            <div class="fax"><span class="icon-print"></span> (312) 913-9154</div>
+<!--                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>-->
+		                </div>
+		                <div class="right">
+                            <h4>Hours</h4>
+                            <p>Mon–Wed: 9am–5pm</p>
+                            <p>Thur: 9am–5pm</p>
+                            <p>Fri: 9am–5pm</p>
+		                </div>
+		            </div>
+		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
+		        </div>
+                
+                <div class="item">
+		            <div class="map"><img src="images/map-1.png" alt="" /></div>
+		            <h3 class="address">2277 West Howard Street</h3>
+		            <div class="info cf">
+		                <div class="left">
+                            <div class="city">Chicago, IL 60645</div>
+                            <div class="phone"><span class="icon-phone"></span> (773) 508-0110</div>
+                            <div class="fax"><span class="icon-print"></span> (773) 508-0774</div>
+<!--
                             <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>
+-->
+		                </div>
+		                <div class="right">
+                            <h4>Hours</h4>
+                            <p>Mon–Wed: 9am–5pm</p>
+                            <p>Thur: 9am–5pm</p>
+                            <p>Fri: 9am–5pm</p>
+		                </div>
+		            </div>
+		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
+		        </div>
+
+		        <div class="item">
+		            <div class="map"><img src="images/map-2.png" alt="" /></div>
+		            <h3 class="address">9801 Woods Drive</h3>
+		            <div class="info cf">
+		                <div class="left">
+                            <div class="city">Skokie, IL 60077</div>
+                            <div class="phone"><span class="icon-phone"></span> (847) 581-0110</div>
+                            <div class="fax"><span class="icon-print"></span> (847) 581-1768</div>
+<!--                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>-->
 		                </div>
 		                <div class="right">
                             <h4>Hours</h4>
@@ -104,7 +148,7 @@
 		<div class="wrapper cf">
 		    <h2 class="title">Our Doctors</h2>
 		    
-		    <div class="grid two-col">
+		    <div class="grid">
 		    
 		        <div class="item">
 		            <div class="top cf">
@@ -119,6 +163,7 @@
                             <p>He is board certified in both internal medicine and nephrology and remains active in medical education.  He has published numerous papers on the subjects of clinical nephrology and renal physiology.</p>
 		                </div>
 		            </div>
+<!--
 		            <div class="info">
 		                <h4>Education & Honors</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
@@ -129,6 +174,7 @@
 		                <h4>Organizations</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
 		            </div>
+-->
 		        </div>
 
 		        <div class="item">
@@ -146,6 +192,7 @@
                             <p>He maintains an avid interest in athletics as an ex-wrestler and current basketball player. He has written a book about baseball and many articles for realclearsports.com.</p>
 		                </div>
 		            </div>
+<!--
 		            <div class="info">
 		                <h4>Education & Honors</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
@@ -156,6 +203,7 @@
 		                <h4>Organizations</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
 		            </div>
+-->
 		        </div>
 
 		        <div class="item">
@@ -165,9 +213,13 @@
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Neil Soifer, MD</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit.</p>
+                            <p>Dr. Soifer was born and raised in Detroit, Michigan, and attended both college and medical school at the University of Michigan in Ann Arbor. He then moved to Chicago to complete his internship and residency at Michael Reese Hospital, where he spent an additional year as a chief medical resident. After completing his clinical nephrology training at the University of Pennsylvania, he spent several years performing basic science and clinical research at Yale University in New Haven, Connecticut. During this time he was recognized with a Young Investigator Award.</p>
+                            <p>He returned to Chicago and joined Lakeside Nephrology in 1994, where he is now the Secretary and Treasurer, as well as the director of the acute dialysis program. He is the Chief of Nephrology at Weiss Memorial Hospital in Chicago, and the medical director of the Fresenius Medical Care Uptown dialysis facility. He is also a Clinical Assistant Professor of Medicine at the University of Illinois in Chicago.</p>
+                            <p>Dr. Soifer is presently an active member on the Medical Advisory Board of Fresenius Medical Care and the Medical Executive Board of the National Kidney Foundation.  He is a member of the International Society of Nephrology and the Renal Physicians Association, and he has been appointed a Fellow of the American Society of Nephrology.</p>
+                            <p>Dr. Soifer is board certified in both internal medicine and nephrology. He has received several teaching awards, and has published numerous original scientific articles and review papers in the areas of clinical nephrology, endocrinology, and bone and mineral metabolism. He is presently a reviewer for several national Nephrology journals.</p>
 		                </div>
 		            </div>
+<!--
 		            <div class="info">
 		                <h4>Education & Honors</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
@@ -178,6 +230,7 @@
 		                <h4>Organizations</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
 		            </div>
+-->
 		        </div>
 
 		        <div class="item">
@@ -186,10 +239,15 @@
 		                    <img src="images/pic-doctor-01.jpg" alt="" />
 		                </div>
 		                <div class="bio">
-		                    <h3 class="doc-title">Neil Soifer, MD</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit.</p>
+		                    <h3 class="doc-title">Dr. Najafi, MD</h3>
+                            <p>Dr. Najafi attended college at the University of Colorado, Boulder campus.  He returned home and obtained his medical degree from Rush University in Chicago in 1995.  He then completed his residency in Internal Medicine at Rush University where he was selected to be a Chief Medical Resident.  He deferred, electing to enter his fellowship in the section of Nephrology at Rush University under the mentorship of Dr. Edmund J. Lewis.</p>
+                            <p>Following the completion of his education and clinical training, he remained in Chicago joining Lakeside Nephrology in 2000, where he is now a Partner.  He is a consultant for acute hemodialysis program in the section of Nephrology at North Shore University Health Systems Skokie Hospital.  In addition, he is a consultant to the home dialysis program for Avanti Wellness and Rehab facility in Niles, Illinois.  He has served as the Medical Director of Fresenius Medical Care Skokie Dialysis facility since 2001.  There he oversees both a robust in-center dialysis program as well as a comprehensive Home Dialysis program.</p>
+                            <p>Dr. Najafi is a member of the American Society of Nephrology, the National Kidney Foundation and the Renal Physicians Association.  He is board certified in Internal Medicine and Nephrology and participates in the educational experience of residents and medical students.  He has published clinical research in the area of Lupus Nephritis.</p>
+                            <p>Outside of work, Dr. Najafi has a love for the outdoors.  He enjoys downhill skiing, hiking and fly fishing.  He plays both tennis and ice hockey competitively.
+</p>
 		                </div>
 		            </div>
+<!--
 		            <div class="info">
 		                <h4>Education & Honors</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
@@ -200,6 +258,36 @@
 		                <h4>Organizations</h4>
 		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
 		            </div>
+-->
+		        </div>
+                
+                <div class="item">
+		            <div class="top cf">
+		                <div class="headshot">
+		                    <img src="images/pic-doctor-01.jpg" alt="" />
+		                </div>
+		                <div class="bio">
+		                    <h3 class="doc-title">Dr. Kathpalia, MD</h3>
+                            <p>Dr. Kathpalia grew up in the Western suburbs of Chicago.  He attended Northwestern University for his undergraduate studies and graduated Magna Cum Laude with a degree in Economics.  During his undergraduate period, he also investigated calcium oxalate kidney stone formation with Dr. Murray Favus at the University of Chicago Pritzker School of Medicine.  Following college, he matriculated at the University of Michigan School of Medicine in Ann Arbor, where he was elected to membership in the Alpha Omega Alpha honor society and graduated with distinction.  He then headed to Boston for his Internal Medicine residency at Massachusetts General Hospital, a teaching affiliate of Harvard Medical School.</p>
+                            <p>Upon completing his residency, he relocated to the San Francisco Bay Area for his fellowship in Nephrology at Stanford University Medical Center. He finished his fellowship in 2010, and stayed on for a two-year NIH sponsored postdoctoral research fellowship in which he studied the renal tubular mechanisms of salt sensitive hypertension.   He is the author of numerous peer reviewed scientific publications and is board certified in both Internal Medicine and Nephrology.</p>
+                            <p>He joined Lakeside Nephrology in 2012 and is the Medical Director of the Fresenius Garfield Dialysis Unit.  He is a Clinical Assistant Professor at the University of Illinois College of Medicine and a Fellow of the American Society of Nephrology.  He was awarded the Subspecialty Attending of the Year in 2013 by the medical housestaff at Mercy Hospital and Medical Center.</p>
+                            <p>In his spare time, he enjoys traveling, yoga and meditation, reading, and spectator sports.
+
+</p>
+		                </div>
+		            </div>
+<!--
+		            <div class="info">
+		                <h4>Education & Honors</h4>
+		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
+		                <h4>Affiliations</h4>
+		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
+		                <h4>Certification</h4>
+		                <p>List Item One, List Item Two, List Item Three, List Item Four</p>
+		                <h4>Organizations</h4>
+		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
+		            </div>
+-->
 		        </div>
 		    
 		    </div>
@@ -238,9 +326,9 @@
 		    <h2 class="title">Resources</h2>
 
 		    <ul class="four-col">
-		        <li>List Item 1</li>
-		        <li>List Item 2</li>
-		        <li>List Item 3</li>
+		        <li><a href="http://www.nkf.org" target="_blank">National Kidney Foundation</a></li>
+		        <li><a href="http://www.aakp.org" target="_blank">American Association of Kidney Patients</a></li>
+		        <li><a href="http://www.uptodate.com/patients" target="_blank">UpToDate</a></li>
 		        <li>List Item 4</li>
 		        <li>List Item 5</li>
 		        <li>List Item 6</li>
