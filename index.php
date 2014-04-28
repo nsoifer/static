@@ -169,7 +169,7 @@
 		        <div class="item">
 		            <div class="top cf">
 		                <div class="headshot">
-		                    <img src="images/pic-doctor-01.jpg" alt="" />
+		                    <img src="images/pic_berns.png" alt="" />
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Arnold Berns, MD</h3>
@@ -196,7 +196,7 @@
 		        <div class="item">
 		            <div class="top cf">
 		                <div class="headshot">
-		                    <img src="images/pic-doctor-01.jpg" alt="" />
+		                    <img src="images/pic_hirsch.png" alt="" />
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Sheldon Hirsch, MD</h3>
@@ -225,7 +225,7 @@
 		        <div class="item">
 		            <div class="top cf">
 		                <div class="headshot">
-		                    <img src="images/pic-doctor-01.jpg" alt="" />
+		                    <img src="images/pic_soifer.png" alt="" />
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Neil Soifer, MD</h3>
@@ -252,7 +252,7 @@
 		        <div class="item">
 		            <div class="top cf">
 		                <div class="headshot">
-		                    <img src="images/pic-doctor-01.jpg" alt="" />
+		                    <img src="images/pic_najafi.png" alt="" />
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Dr. Najafi, MD</h3>
@@ -280,7 +280,7 @@
                 <div class="item">
 		            <div class="top cf">
 		                <div class="headshot">
-		                    <img src="images/pic-doctor-01.jpg" alt="" />
+		                    <img src="images/pic_kathpalia.png" alt="" />
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Dr. Kathpalia, MD</h3>
