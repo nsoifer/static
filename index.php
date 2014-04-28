@@ -64,7 +64,7 @@
 		    <div class="grid two-col cf">
 		    
 		        <div class="item">
-		            <div class="map"><img src="images/map-1.png" alt="" /></div>
+		            <div class="map"><img src="images/map_1canal.png" alt="" /></div>
 		            <h3 class="address">1101 S Canal Street</h3>
 		            <div class="info cf">
 		                <div class="left">
@@ -88,7 +88,7 @@
 		        </div>
 
 		        <div class="item">
-		            <div class="map"><img src="images/map-2.png" alt="" /></div>
+		            <div class="map"><img src="images/map_2wabash.png" alt="" /></div>
 		            <h3 class="address">1717 South Wabash Avenue</h3>
 		            <div class="info cf">
 		                <div class="left">
@@ -110,7 +110,7 @@
 		        </div>
                 
                 <div class="item">
-		            <div class="map"><img src="images/map-1.png" alt="" /></div>
+		            <div class="map"><img src="images/map_3howard.png" alt="" /></div>
 		            <h3 class="address">2277 West Howard Street</h3>
 		            <div class="info cf">
 		                <div class="left">
@@ -134,7 +134,7 @@
 		        </div>
 
 		        <div class="item">
-		            <div class="map"><img src="images/map-2.png" alt="" /></div>
+		            <div class="map"><img src="images/map_4woods.png" alt="" /></div>
 		            <h3 class="address">9801 Woods Drive</h3>
 		            <div class="info cf">
 		                <div class="left">
