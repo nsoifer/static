@@ -61,6 +61,7 @@ body {
     margin-right: 4%;
 }
 
+/*
 .four-col {
     font-size: 17px;
     line-height: 29px;
@@ -73,6 +74,13 @@ body {
 .four-col li {
     list-style: disc;
     margin-left: 1em;
+}
+*/
+
+.four-col li {
+    float: left;
+    width: 25%;
+    padding-right: 20px;
 }
 
 
@@ -278,19 +286,21 @@ a:hover {
 }
 
 .hero-img .info-block {
+    position: relative;
+    top: 50%;
     float: right;
-    clear: right;
     width: 500px;
     margin-bottom: 28px;
     padding: 10px 16px;
     background: #81cfeb;
     color: #fff;
     font-size: 18px;
+
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
-.hero-img .block-1 {
-    margin-top: 92px;
-}
 
 /**========================================================
     INTRO
