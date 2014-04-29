@@ -398,6 +398,12 @@ a:hover {
     line-height: 22px;
 }
 
+.services ul,
+.resources ul {
+    font-size: 17px;
+    line-height: 29px;
+    text-align: center;
+}
 
 .services .wrapper {
     padding-bottom: 120px;

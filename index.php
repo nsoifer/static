@@ -205,7 +205,7 @@
 		<div class="wrapper cf">
 		    <h2 class="title">Hospital Affiliations</h2>
 		    
-		    <ul class="four-col">
+		    <ul>
 		        <li>Mercy Hospital and Medical Center, Chicago, IL</li>
 		        <li>Northshore University Skokie Hospital, Skokie, IL</li>
 		        <li>Presence St. Francis Hospital, Evanston, IL</li>
@@ -219,11 +219,11 @@
 		<div class="wrapper cf">
 		    <h2 class="title">Resources</h2>
 
-		    <ul class="four-col">
+		    <ul>
 		        <li><a href="http://www.nkf.org" target="_blank">National Kidney Foundation</a></li>
 		        <li><a href="http://www.aakp.org" target="_blank">American Association of Kidney Patients</a></li>
 		        <li><a href="http://www.uptodate.com/patients" target="_blank">UpToDate</a></li>
-		        <li><a href="resources/XXX.pdf">Treatment Options for Kidney Failure: Living with End Stage Renal Disease (PDF download)</a></li>
+		        <li><a href="resources/XXX.pdf">Treatment Options for Kidney Failure: Living with End Stage Renal Disease (PDF)</a></li>
 		    </ul>
 		    
 		</div>
