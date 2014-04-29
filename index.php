@@ -34,23 +34,13 @@
 
     	    <div class="hero-img cf">
                 <div class="info-block block-1">
-                    <div class="left"><p>Office hours at each office are 9 AM-5 PM Monday thru Friday</p>
+                    <p>Office hours at each office are 9 AM-5 PM Monday thru Friday</p>
                     <p>Appointments are by referral only</p>
                     <p>Practice is limited to Nephrology</p>
                     <p>All insurance accepted</p>
-                    <p>Office Manager: Patricia Payne</p></div>
-<!--
-                    <div class="right">(312) 555-5555</div>
--->
+                    <p>Office Manager: Patricia Payne</p>
                 </div>
-<!--
-                <div class="info-block block-2">
-                    <div class="left">55 E Washington St, Chicago IL 60602</div>
-                    <div class="right">(312) 555-5555</div>
-                </div>
--->
     	    </div>
-
 
             <h1 class="intro-title">Slogan here lorem ipsum dolor sit amet. Consect adipisce elit verbose.</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit arcu, condimentum id diam non, fermentum molestie sem. Nullam nisl mi, tempus a lectus sit amet, varius consequat ligula. Donec sit amet iaculis dolor uspendisse potenti. Quisque eu dui sapien. Vestibulum velit verbose lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit arcu, condimentum id diam non, fermentum molestie sem. Nullam nisl mi, tempus a lectus sit amet, varius consequat ligula. Donec sit amet iaculis dolor.</p>
@@ -71,18 +61,7 @@
                             <div class="city">Chicago, IL 60607</div>
                             <div class="phone"><span class="icon-phone"></span> (312) 986-0110</div>
                             <div class="fax"><span class="icon-print"></span> (312) 986-0110</div>
-<!--
-                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>
--->
 		                </div>
-<!--
-		                <div class="right">
-                            <h4>Hours</h4>
-                            <p>Mon–Wed: 9am–5pm</p>
-                            <p>Thur: 9am–5pm</p>
-                            <p>Fri: 9am–5pm</p>
-		                </div>
--->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -95,16 +74,7 @@
                             <div class="city">Chicago, IL 60616</div>
                             <div class="phone"><span class="icon-phone"></span> (312) 913-0110</div>
                             <div class="fax"><span class="icon-print"></span> (312) 913-9154</div>
-<!--                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>-->
 		                </div>
-<!--
-		                <div class="right">
-                            <h4>Hours</h4>
-                            <p>Mon–Wed: 9am–5pm</p>
-                            <p>Thur: 9am–5pm</p>
-                            <p>Fri: 9am–5pm</p>
-		                </div>
--->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -117,18 +87,7 @@
                             <div class="city">Chicago, IL 60645</div>
                             <div class="phone"><span class="icon-phone"></span> (773) 508-0110</div>
                             <div class="fax"><span class="icon-print"></span> (773) 508-0774</div>
-<!--
-                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>
--->
 		                </div>
-<!--
-		                <div class="right">
-                            <h4>Hours</h4>
-                            <p>Mon–Wed: 9am–5pm</p>
-                            <p>Thur: 9am–5pm</p>
-                            <p>Fri: 9am–5pm</p>
-		                </div>
--->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -141,16 +100,7 @@
                             <div class="city">Skokie, IL 60077</div>
                             <div class="phone"><span class="icon-phone"></span> (847) 581-0110</div>
                             <div class="fax"><span class="icon-print"></span> (847) 581-1768</div>
-<!--                            <div class="email"><a href="mailto:email@lakesidenephrology.com">email@lakesidenephrology.com</a></div>-->
 		                </div>
-<!--
-		                <div class="right">
-                            <h4>Hours</h4>
-                            <p>Mon–Wed: 9am–5pm</p>
-                            <p>Thur: 9am–5pm</p>
-                            <p>Fri: 9am–5pm</p>
-		                </div>
--->
 		            </div>
 		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
 		        </div>
@@ -179,18 +129,6 @@
                             <p>He is board certified in both internal medicine and nephrology and remains active in medical education.  He has published numerous papers on the subjects of clinical nephrology and renal physiology.</p>
 		                </div>
 		            </div>
-<!--
-		            <div class="info">
-		                <h4>Education & Honors</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Affiliations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Certification</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four</p>
-		                <h4>Organizations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		            </div>
--->
 		        </div>
 
 		        <div class="item">
@@ -208,18 +146,6 @@
                             <p>He maintains an avid interest in athletics as an ex-wrestler and current basketball player. He has written a book about baseball and many articles for realclearsports.com.</p>
 		                </div>
 		            </div>
-<!--
-		            <div class="info">
-		                <h4>Education & Honors</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Affiliations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Certification</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four</p>
-		                <h4>Organizations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		            </div>
--->
 		        </div>
 
 		        <div class="item">
@@ -235,18 +161,6 @@
                             <p>Dr. Soifer is board certified in both internal medicine and nephrology. He has received several teaching awards, and has published numerous original scientific articles and review papers in the areas of clinical nephrology, endocrinology, and bone and mineral metabolism.</p>
 		                </div>
 		            </div>
-<!--
-		            <div class="info">
-		                <h4>Education & Honors</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Affiliations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Certification</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four</p>
-		                <h4>Organizations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		            </div>
--->
 		        </div>
 
 		        <div class="item">
@@ -263,18 +177,6 @@
 </p>
 		                </div>
 		            </div>
-<!--
-		            <div class="info">
-		                <h4>Education & Honors</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Affiliations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Certification</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four</p>
-		                <h4>Organizations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		            </div>
--->
 		        </div>
                 
                 <div class="item">
@@ -292,18 +194,6 @@
 </p>
 		                </div>
 		            </div>
-<!--
-		            <div class="info">
-		                <h4>Education & Honors</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Affiliations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		                <h4>Certification</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four</p>
-		                <h4>Organizations</h4>
-		                <p>List Item One, List Item Two, List Item Three, List Item Four, List Item Five, List Item Six, List Item Seven</p>
-		            </div>
--->
 		        </div>
 		    
 		    </div>
