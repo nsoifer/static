@@ -23,7 +23,7 @@
 					<li><a href="#locations">Our Locations</a></li>
 					<li><a href="#doctors">Our Doctors</a></li>
 					<li><a href="#services">Affiliations & Resources</a></li>
-					<li><a href="" target="_blank">Patient Portal</a></li>
+					<li><a href="https://go.acumenehr.com" target="_blank">Patient Portal</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -65,7 +65,7 @@
                             <div class="fax"><span class="icon-print"></span> (312) 986-0110</div>
 		                </div>
 		            </div>
-		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
+		            <div class="directions"><a href="https://www.google.com/maps/place/1101+S+Canal+St/@41.868634,-87.6386375,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2cecd6a20ac5:0x3276b1439ae4d58f" target="_blank" class="btn">Get Directions</a></div>
 		        </div>
 
 		        <div class="item">
@@ -78,7 +78,7 @@
                             <div class="fax"><span class="icon-print"></span> (312) 913-9154</div>
 		                </div>
 		            </div>
-		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
+		            <div class="directions"><a href="https://www.google.com/maps/place/1717+S+Wabash+Ave/@41.8586416,-87.6254415,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2c86f01ebadb:0x3caa8fec9eae8429" target="_blank" class="btn">Get Directions</a></div>
 		        </div>
                 
                 <div class="item">
@@ -91,7 +91,7 @@
                             <div class="fax"><span class="icon-print"></span> (773) 508-0774</div>
 		                </div>
 		            </div>
-		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
+		            <div class="directions"><a href="https://www.google.com/maps/place/2277+W+Howard+St/@42.019261,-87.687315,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd0320c674f71:0x5b296a12acb4f3f7" target="_blank" class="btn">Get Directions</a></div>
 		        </div>
 
 		        <div class="item">
@@ -104,7 +104,7 @@
                             <div class="fax"><span class="icon-print"></span> (847) 581-1768</div>
 		                </div>
 		            </div>
-		            <div class="directions"><a href="" class="btn">Get Directions</a></div>
+		            <div class="directions"><a href="https://www.google.com/maps/place/9801+Woods+Dr/@42.0564488,-87.7612047,17z/data=!3m1!4b1!4m2!3m1!1s0x880fcf58ac788cc7:0x1d8e0f85d4104d8c" target="_blank" class="btn">Get Directions</a></div>
 		        </div>
 		    
 		    </div>
@@ -125,7 +125,7 @@
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Arnold Berns, MD</h3>
-                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/2277+W+Howard+St/@42.019261,-87.687315,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd0320c674f71:0x5b296a12acb4f3f7">Howard Street Office</a></h6>
+                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/2277+W+Howard+St/@42.019261,-87.687315,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd0320c674f71:0x5b296a12acb4f3f7" target="_blank">Howard Street Office</a></h6>
                             <p>Dr. Berns attended both college and medical school at Northwestern University in Chicago. He completed his internship at Boston city Hospital on the Harvard medical service, and his residency in Internal Medicine at Northwestern Memorial Hospital. He completed a fellowship in Nephrology at the University of Colorado with Dr. Robert Schrier.</p>
                             <p>After completing his formal education and training, he returned to Chicago and joined Lakeside nephrology in 1978, where he is now the President and managing partner.  He is Director of Nephrology at Saint Francis Hospital in Evanston, IL and Clinical Professor of Medicine at the University of Illinois in Chicago.  He has served as the Medical Director of Fresenius Medical Care Rogers Park Dialysis Facility since 1981.</p>
                             <p>Dr. Berns was a member of the Board of Advisors of the American Society of Nephrology from 2003-2008 and  founded and chaired the Practicing Nephrology Advisory Group of the American Society of Nephrology.  He also served on the Nephrology Board of the American Board of Internal Medicine from 2007-2013.</p>
@@ -141,7 +141,7 @@
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Sheldon Hirsch, MD</h3>
-                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/1717+S+Wabash+Ave/@41.8586416,-87.6254415,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2c86f01ebadb:0x3caa8fec9eae8429">Wabash Avenue Office</a>, <a href="https://www.google.com/maps/place/1101+S+Canal+St/@41.868634,-87.6386375,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2cecd6a20ac5:0x3276b1439ae4d58f">Canal Street Office</a></h6>
+                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/1717+S+Wabash+Ave/@41.8586416,-87.6254415,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2c86f01ebadb:0x3caa8fec9eae8429" target="_blank">Wabash Avenue Office</a>, <a href="https://www.google.com/maps/place/1101+S+Canal+St/@41.868634,-87.6386375,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2cecd6a20ac5:0x3276b1439ae4d58f" target="_blank">Canal Street Office</a></h6>
                             <p>Dr Hirsch was born and raised in New York and attended Amherst College and Tufts Medical School in Massachusetts. He did his internship and residency at Michael Reese Hospital in Chicago and his clinical renal fellowship at UCLA.</p>
                             <p>After completing his clinical training, he spent several years doing research at the University of Chicago and Washington University in St Louis, as one of the first renal molecular biologists. He published several papers in highly regarded scientific journals.</p>
                             <p>He returned to clinical nephrology, joining Lakeside Nephrology in 1988. He is Chief of Nephrology at Mercy Hospital and serves as Medical Director of the Davita Loop facility and the Frenesius Medical Care Prairie facility.</p>
@@ -159,7 +159,7 @@
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Neil Soifer, MD</h3>
-                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/2277+W+Howard+St/@42.019261,-87.687315,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd0320c674f71:0x5b296a12acb4f3f7">Howard Street Office</a>, <a href="https://www.google.com/maps/place/1717+S+Wabash+Ave/@41.8586416,-87.6254415,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2c86f01ebadb:0x3caa8fec9eae8429">Wabash Avenue Office</a></h6>
+                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/2277+W+Howard+St/@42.019261,-87.687315,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd0320c674f71:0x5b296a12acb4f3f7" target="_blank">Howard Street Office</a>, <a href="https://www.google.com/maps/place/1717+S+Wabash+Ave/@41.8586416,-87.6254415,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2c86f01ebadb:0x3caa8fec9eae8429" target="_blank">Wabash Avenue Office</a></h6>
                             <p>Dr. Soifer was born and raised in Detroit, Michigan, and attended both college and medical school at the University of Michigan in Ann Arbor. He then moved to Chicago to complete his internship and residency at Michael Reese Hospital, where he spent an additional year as a chief medical resident. After completing his clinical nephrology training at the University of Pennsylvania, he spent several years performing basic science and clinical research at Yale University in New Haven, Connecticut. During this time he was recognized with a Young Investigator Award.</p>
                             <p>He returned to Chicago and joined Lakeside Nephrology in 1994, where he is the director of the acute dialysis program. He is the Chief of Nephrology at Weiss Memorial Hospital in Chicago, and the medical director of the Fresenius Medical Care Uptown dialysis facility. He is also a Clinical Assistant Professor of Medicine at the University of Illinois in Chicago.</p>
                             <p>Dr. Soifer is presently an active member on the Medical Advisory Board of Fresenius Medical Care and the Medical Executive Board of the National Kidney Foundation.  He is a member of the International Society of Nephrology and the Renal Physicians Association, and he has been appointed a Fellow of the American Society of Nephrology.</p>
@@ -175,7 +175,7 @@
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Dr. Najafi, MD</h3>
-                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/9801+Woods+Dr/@42.0564488,-87.7612047,17z/data=!3m1!4b1!4m2!3m1!1s0x880fcf58ac788cc7:0x1d8e0f85d4104d8c">Skokie Office</a></h6>
+                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/9801+Woods+Dr/@42.0564488,-87.7612047,17z/data=!3m1!4b1!4m2!3m1!1s0x880fcf58ac788cc7:0x1d8e0f85d4104d8c" target="_blank">Skokie Office</a></h6>
                             <p>Dr. Najafi attended college at the University of Colorado, Boulder campus.  He returned home and obtained his medical degree from Rush University in Chicago in 1995.  He then completed his residency in Internal Medicine at Rush University where he was selected to be a Chief Medical Resident.  He deferred, electing to enter his fellowship in the section of Nephrology at Rush University under the mentorship of Dr. Edmund J. Lewis.</p>
                             <p>Following the completion of his education and clinical training, he remained in Chicago joining Lakeside Nephrology in 2000, where he is now a Partner.  He is a consultant for acute hemodialysis program in the section of Nephrology at North Shore University Health Systems Skokie Hospital.  In addition, he is a consultant to the home dialysis program for Avanti Wellness and Rehab facility in Niles, Illinois.  He has served as the Medical Director of Fresenius Medical Care Skokie Dialysis facility since 2001.  There he oversees both a robust in-center dialysis program as well as a comprehensive Home Dialysis program.</p>
                             <p>Dr. Najafi is a member of the American Society of Nephrology, the National Kidney Foundation and the Renal Physicians Association.  He is board certified in Internal Medicine and Nephrology and participates in the educational experience of residents and medical students.  He has published clinical research in the area of Lupus Nephritis.</p>
@@ -192,7 +192,7 @@
 		                </div>
 		                <div class="bio">
 		                    <h3 class="doc-title">Dr. Kathpalia, MD</h3>
-                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/1101+S+Canal+St/@41.868634,-87.6386375,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2cecd6a20ac5:0x3276b1439ae4d58f">Canal Street Office</a></h6>
+                            <h6 class="doc-location"><a href="https://www.google.com/maps/place/1101+S+Canal+St/@41.868634,-87.6386375,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2cecd6a20ac5:0x3276b1439ae4d58f" target="_blank">Canal Street Office</a></h6>
                             <p>Dr. Kathpalia grew up in the Western suburbs of Chicago.  He attended Northwestern University for his undergraduate studies and graduated Magna Cum Laude with a degree in Economics.  During his undergraduate period, he also investigated calcium oxalate kidney stone formation with Dr. Murray Favus at the University of Chicago Pritzker School of Medicine.  Following college, he matriculated at the University of Michigan School of Medicine in Ann Arbor, where he was elected to membership in the Alpha Omega Alpha honor society and graduated with distinction.  He then headed to Boston for his Internal Medicine residency at Massachusetts General Hospital, a teaching affiliate of Harvard Medical School.</p>
                             <p>Upon completing his residency, he relocated to the San Francisco Bay Area for his fellowship in Nephrology at Stanford University Medical Center. He finished his fellowship in 2010, and stayed on for a two-year NIH sponsored postdoctoral research fellowship in which he studied the renal tubular mechanisms of salt sensitive hypertension.   He is the author of numerous peer reviewed scientific publications and is board certified in both Internal Medicine and Nephrology.</p>
                             <p>He joined Lakeside Nephrology in 2012 and is the Medical Director of the Fresenius Garfield Dialysis Unit.  He is a Clinical Assistant Professor at the University of Illinois College of Medicine and a Fellow of the American Society of Nephrology.  He was awarded the Subspecialty Attending of the Year in 2013 by the medical housestaff at Mercy Hospital and Medical Center.</p>
