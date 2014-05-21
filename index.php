@@ -42,9 +42,6 @@
                     <p>Office Manager: Patricia Payne</p>
                 </div>
     	    </div>
-
-            <h1 class="intro-title">Slogan here lorem ipsum dolor sit amet. Consect adipisce elit verbose.</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit arcu, condimentum id diam non, fermentum molestie sem. Nullam nisl mi, tempus a lectus sit amet, varius consequat ligula. Donec sit amet iaculis dolor uspendisse potenti. Quisque eu dui sapien. Vestibulum velit verbose lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu volutpat turpis. Suspendisse potenti. Quisque eu dui sapien. Vestibulum velit arcu, condimentum id diam non, fermentum molestie sem. Nullam nisl mi, tempus a lectus sit amet, varius consequat ligula. Donec sit amet iaculis dolor.</p>
 		</div>
 	</section><!-- .intro -->
 
@@ -62,7 +59,7 @@
 		                <div class="left">
                             <div class="city">Chicago, IL 60607</div>
                             <div class="phone"><span class="icon-phone"></span> (312) 986-0110</div>
-                            <div class="fax"><span class="icon-print"></span> (312) 986-0110</div>
+                            <div class="fax"><span class="icon-print"></span> (312) 663-1010</div>
 		                </div>
 		            </div>
 		            <div class="directions"><a href="https://www.google.com/maps/place/1101+S+Canal+St/@41.868634,-87.6386375,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2cecd6a20ac5:0x3276b1439ae4d58f" target="_blank" class="btn">Get Directions</a></div>
@@ -88,7 +85,7 @@
 		                <div class="left">
                             <div class="city">Chicago, IL 60645</div>
                             <div class="phone"><span class="icon-phone"></span> (773) 508-0110</div>
-                            <div class="fax"><span class="icon-print"></span> (773) 508-0774</div>
+                            <div class="fax"><span class="icon-print"></span> (773) 508-0074</div>
 		                </div>
 		            </div>
 		            <div class="directions"><a href="https://www.google.com/maps/place/2277+W+Howard+St/@42.019261,-87.687315,17z/data=!3m1!4b1!4m2!3m1!1s0x880fd0320c674f71:0x5b296a12acb4f3f7" target="_blank" class="btn">Get Directions</a></div>
@@ -174,7 +171,7 @@
 		                    <img src="images/pic_najafi.png" alt="" />
 		                </div>
 		                <div class="bio">
-		                    <h3 class="doc-title">Dr. Najafi, MD</h3>
+		                    <h3 class="doc-title">Chris Najafi, MD</h3>
                             <h6 class="doc-location"><a href="https://www.google.com/maps/place/9801+Woods+Dr/@42.0564488,-87.7612047,17z/data=!3m1!4b1!4m2!3m1!1s0x880fcf58ac788cc7:0x1d8e0f85d4104d8c" target="_blank">Skokie Office</a></h6>
                             <p>Dr. Najafi attended college at the University of Colorado, Boulder campus.  He returned home and obtained his medical degree from Rush University in Chicago in 1995.  He then completed his residency in Internal Medicine at Rush University where he was selected to be a Chief Medical Resident.  He deferred, electing to enter his fellowship in the section of Nephrology at Rush University under the mentorship of Dr. Edmund J. Lewis.</p>
                             <p>Following the completion of his education and clinical training, he remained in Chicago joining Lakeside Nephrology in 2000, where he is now a Partner.  He is a consultant for acute hemodialysis program in the section of Nephrology at North Shore University Health Systems Skokie Hospital.  In addition, he is a consultant to the home dialysis program for Avanti Wellness and Rehab facility in Niles, Illinois.  He has served as the Medical Director of Fresenius Medical Care Skokie Dialysis facility since 2001.  There he oversees both a robust in-center dialysis program as well as a comprehensive Home Dialysis program.</p>
@@ -191,7 +188,7 @@
 		                    <img src="images/pic_kathpalia.png" alt="" />
 		                </div>
 		                <div class="bio">
-		                    <h3 class="doc-title">Dr. Kathpalia, MD</h3>
+		                    <h3 class="doc-title">Paru Kathpalia, MD</h3>
                             <h6 class="doc-location"><a href="https://www.google.com/maps/place/1101+S+Canal+St/@41.868634,-87.6386375,17z/data=!3m1!4b1!4m2!3m1!1s0x880e2cecd6a20ac5:0x3276b1439ae4d58f" target="_blank">Canal Street Office</a></h6>
                             <p>Dr. Kathpalia grew up in the Western suburbs of Chicago.  He attended Northwestern University for his undergraduate studies and graduated Magna Cum Laude with a degree in Economics.  During his undergraduate period, he also investigated calcium oxalate kidney stone formation with Dr. Murray Favus at the University of Chicago Pritzker School of Medicine.  Following college, he matriculated at the University of Michigan School of Medicine in Ann Arbor, where he was elected to membership in the Alpha Omega Alpha honor society and graduated with distinction.  He then headed to Boston for his Internal Medicine residency at Massachusetts General Hospital, a teaching affiliate of Harvard Medical School.</p>
                             <p>Upon completing his residency, he relocated to the San Francisco Bay Area for his fellowship in Nephrology at Stanford University Medical Center. He finished his fellowship in 2010, and stayed on for a two-year NIH sponsored postdoctoral research fellowship in which he studied the renal tubular mechanisms of salt sensitive hypertension.   He is the author of numerous peer reviewed scientific publications and is board certified in both Internal Medicine and Nephrology.</p>

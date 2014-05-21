@@ -295,7 +295,7 @@ a:hover {
 .hero-img {
     height: 298px;
     margin-top: -149px;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
     padding: 0;
     background: url(../images/hero.jpg) no-repeat center center;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
